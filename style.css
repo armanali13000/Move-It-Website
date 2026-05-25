@@ -41,6 +41,16 @@ a {
   text-decoration: none;
 }
 
+.nav-menu a,
+.nav-cta,
+.btn,
+.quick-btn,
+.footer a,
+.floating-action,
+.scroll-top {
+  text-decoration: none;
+}
+
 button,
 input,
 select,
